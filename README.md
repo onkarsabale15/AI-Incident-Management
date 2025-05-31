@@ -38,6 +38,3 @@ It continuously monitors backend systems, identifies HTTP 500 errors, traces the
 | Infrastructure  | Docker, Cloud-native ready             |
 
 ---
-
-## 📂 Project Structure
-
